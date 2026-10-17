@@ -1,0 +1,6 @@
+{
+  "name": "Nano Banana 2.1 & Veo Studio",
+  "description": "Gerador de imagens ultra HD Nano Banana 2.1 e vídeos Veo 3.1 Lite com créditos diários, roleta da sorte, missões, galeria local e compartilhamento social.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
